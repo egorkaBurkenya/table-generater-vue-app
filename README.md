@@ -1,5 +1,8 @@
 # table-app
 
+Простое приложение по созданию и заполнению таблиц на Vue
+все данные хранятся в localStorage!!!!
+
 ## Project setup
 ```
 npm install
